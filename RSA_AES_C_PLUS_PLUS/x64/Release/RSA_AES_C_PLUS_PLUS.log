@@ -1,0 +1,12 @@
+﻿  liczenie_slow.cpp
+C:\Users\itsno\source\repos\RSA_AES_C_PLUS_PLUS\RSA_AES_C_PLUS_PLUS\liczenie_slow.cpp(97,31): warning C4267: "=": konwersja z "size_t" do "_Ty", możliwa utrata danych
+C:\Users\itsno\source\repos\RSA_AES_C_PLUS_PLUS\RSA_AES_C_PLUS_PLUS\liczenie_slow.cpp(97,31): warning C4267:         with
+C:\Users\itsno\source\repos\RSA_AES_C_PLUS_PLUS\RSA_AES_C_PLUS_PLUS\liczenie_slow.cpp(97,31): warning C4267:         [
+C:\Users\itsno\source\repos\RSA_AES_C_PLUS_PLUS\RSA_AES_C_PLUS_PLUS\liczenie_slow.cpp(97,31): warning C4267:             _Ty=int
+C:\Users\itsno\source\repos\RSA_AES_C_PLUS_PLUS\RSA_AES_C_PLUS_PLUS\liczenie_slow.cpp(97,31): warning C4267:         ]
+  Trwa generowanie kodu
+  0 of 1622 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Zakończono generowanie kodu
+  RSA_AES_C_PLUS_PLUS.vcxproj -> C:\Users\itsno\source\repos\RSA_AES_C_PLUS_PLUS\x64\Release\RSA_AES_C_PLUS_PLUS.exe

@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\itsno\source\repos\RSA_AES_C_PLUS_PLUS\RSA_AES_C_PLUS_PLUS\cryptolib.h(5,10): error C1083: Nie można otworzyć pliku dołącz: 'cryptlib.h': No such file or directory
+  (kompilowanie pliku źródłowego „main.cpp”)
+  
